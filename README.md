@@ -1,6 +1,4 @@
-Here is how you can add the images to your `README.md` file in the appropriate sections. I have updated your provided instructions and added the image references with the correct markdown syntax:
 
----
 
 ```markdown
 # Capstone Project: E-Commerce Platform Deployment with Git, Linux, and AWS
@@ -80,6 +78,9 @@ Before deploying your e-commerce platform, you need to clone the GitHub reposito
 
 #### SSH Method:
 1. On your EC2 instance, generate SSH keypair using `ssh-keygen`.
+
+![SSH Key Pair](ssh%20key%20pair.png)
+
 2. Display and copy your public key.
 
 ```bash
